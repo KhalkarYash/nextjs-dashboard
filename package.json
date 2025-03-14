@@ -27,5 +27,19 @@
     "@types/node": "22.10.7",
     "@types/react": "19.0.7",
     "@types/react-dom": "19.0.3"
-  }
+  },
+  "name": "nextjs-dashboard",
+  "version": "1.0.0",
+  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhalkarYash/nextjs-dashboard.git"
+  },
+  "keywords": [],
+  "author": "Yash Khalkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhalkarYash/nextjs-dashboard/issues"
+  },
+  "homepage": "https://github.com/KhalkarYash/nextjs-dashboard#readme"
 }
